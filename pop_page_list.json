@@ -1,7 +1,9 @@
 [
+    "os/ubuntu.html",
+    "programming/mclearn_loadmap2.html",
     "developper/git_gress.html",
     "os/raspberry_pi.html",
-    "os/ubuntu.html",
+
     "programming/codeing_interview.html",
     "programming/machine_loadmap.html"
 ]
