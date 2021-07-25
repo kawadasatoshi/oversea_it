@@ -10,12 +10,17 @@
             <div class="">
 
             </div>
+            <pre>
+
+            </pre>
+            <pre class="comment">
+
+                </pre>
             <br>
             <br>
         </div>
         <!--△画像（右）テキスト回り込み-->
     </div>
-
     <div>
         <!--△画像（左）テキスト回り込み-->
         <h2>
@@ -26,13 +31,17 @@
             <div class="">
 
             </div>
+            <pre>
+
+            </pre>
+            <pre class="comment">
+
+                </pre>
             <br>
             <br>
         </div>
         <!--△画像（右）テキスト回り込み-->
-    </div>
-
-    <div>
+    </div>    <div>
         <!--△画像（左）テキスト回り込み-->
         <h2>
 
@@ -42,13 +51,17 @@
             <div class="">
 
             </div>
+            <pre>
+
+            </pre>
+            <pre class="comment">
+
+                </pre>
             <br>
             <br>
         </div>
         <!--△画像（右）テキスト回り込み-->
-    </div>
-
-    <div>
+    </div>    <div>
         <!--△画像（左）テキスト回り込み-->
         <h2>
 
@@ -58,16 +71,164 @@
             <div class="">
 
             </div>
+            <pre>
+
+            </pre>
+            <pre class="comment">
+
+                </pre>
+            <br>
+            <br>
+        </div>
+        <!--△画像（右）テキスト回り込み-->
+    </div>    <div>
+        <!--△画像（左）テキスト回り込み-->
+        <h2>
+
+        </h2>
+        <!--▽画像（右）テキスト回り込み-->
+        <div class="">
+            <div class="">
+
+            </div>
+            <pre>
+
+            </pre>
+            <pre class="comment">
+
+                </pre>
+            <br>
+            <br>
+        </div>
+        <!--△画像（右）テキスト回り込み-->
+    </div>    <div>
+        <!--△画像（左）テキスト回り込み-->
+        <h2>
+
+        </h2>
+        <!--▽画像（右）テキスト回り込み-->
+        <div class="">
+            <div class="">
+
+            </div>
+            <pre>
+
+            </pre>
+            <pre class="comment">
+
+                </pre>
+            <br>
+            <br>
+        </div>
+        <!--△画像（右）テキスト回り込み-->
+    </div>    <div>
+        <!--△画像（左）テキスト回り込み-->
+        <h2>
+
+        </h2>
+        <!--▽画像（右）テキスト回り込み-->
+        <div class="">
+            <div class="">
+
+            </div>
+            <pre>
+
+            </pre>
+            <pre class="comment">
+
+                </pre>
+            <br>
+            <br>
+        </div>
+        <!--△画像（右）テキスト回り込み-->
+    </div>    <div>
+        <!--△画像（左）テキスト回り込み-->
+        <h2>
+
+        </h2>
+        <!--▽画像（右）テキスト回り込み-->
+        <div class="">
+            <div class="">
+
+            </div>
+            <pre>
+
+            </pre>
+            <pre class="comment">
+
+                </pre>
+            <br>
+            <br>
+        </div>
+        <!--△画像（右）テキスト回り込み-->
+    </div>    <div>
+        <!--△画像（左）テキスト回り込み-->
+        <h2>
+
+        </h2>
+        <!--▽画像（右）テキスト回り込み-->
+        <div class="">
+            <div class="">
+
+            </div>
+            <pre>
+
+            </pre>
+            <pre class="comment">
+
+                </pre>
+            <br>
+            <br>
+        </div>
+        <!--△画像（右）テキスト回り込み-->
+    </div>    <div>
+        <!--△画像（左）テキスト回り込み-->
+        <h2>
+
+        </h2>
+        <!--▽画像（右）テキスト回り込み-->
+        <div class="">
+            <div class="">
+
+            </div>
+            <pre>
+
+            </pre>
+            <pre class="comment">
+
+                </pre>
+            <br>
+            <br>
+        </div>
+        <!--△画像（右）テキスト回り込み-->
+    </div>    <div>
+        <!--△画像（左）テキスト回り込み-->
+        <h2>
+
+        </h2>
+        <!--▽画像（右）テキスト回り込み-->
+        <div class="">
+            <div class="">
+
+            </div>
+            <pre>
+
+            </pre>
+            <pre class="comment">
+
+                </pre>
             <br>
             <br>
         </div>
         <!--△画像（右）テキスト回り込み-->
     </div>
-
-
-
 </div>
 
+<style>
+    .comment {
+        background-color: blanchedalmond;
+    }
+</style>
 
 
 title:
