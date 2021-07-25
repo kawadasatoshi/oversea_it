@@ -1,4 +1,5 @@
 [
+    "os/windows11_cclearner.html",
     "os/windows11.html",
     "os/ubuntu.html",
     "programming/mclearn_loadmap2.html",
@@ -6,5 +7,5 @@
     "os/raspberry_pi.html",
     "programming/codeing_interview.html",
     "programming/machine_loadmap.html",
-    "developper/alpha_go.html",
+    "developper/alpha_go.html"
 ]
