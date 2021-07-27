@@ -1,4 +1,6 @@
 [
+    "os/microsoft.html",
+    "programming/ruby_on_rails.html",
     "developper/github_commit.html",
     "programming/sercret_money.html",
     "os/windows11_cclearner.html",
@@ -11,6 +13,6 @@
     "programming/machine_loadmap.html",
     "developper/alpha_go.html",
     "os/linux_cmd_elvin_sms.html",
-    "os/microsoft.html",
-    "programming/ruby_on_rails.html"
+    "design/marketing.html",
+    "design/webdesign_landing.html"
 ]
