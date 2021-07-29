@@ -1,6 +1,4 @@
 [
-    "developper/excel_bar.html",
-    "programming/mc_python_java.html",
     "os/microsoft.html",
     "programming/ruby_on_rails.html",
     "developper/github_commit.html",
@@ -16,5 +14,10 @@
     "developper/alpha_go.html",
     "os/linux_cmd_elvin_sms.html",
     "design/marketing.html",
-    "design/webdesign_landing.html"
+    "design/webdesign_landing.html",
+    "programming/program_loop.html",
+    "developper/wireshark.html",
+    "developper/wireshark_terminal.html",
+    "developper/excel_bar.html",
+    "programming/mc_python_java.html"
 ]
